@@ -1,0 +1,1 @@
+pyinstaller --onefile --exclude matplotlib --exclude scipy --exclude pandas --exclude numpy --exclude IPython --exclude django --exclude FixTk --exclude tcl --exclude tk --exclude _tkinter --exclude tkinter --exclude Tkinter howmuch.py
